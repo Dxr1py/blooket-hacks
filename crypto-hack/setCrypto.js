@@ -21,7 +21,7 @@
             window.open('https://snak3s773.github.io/blooket-hack/discord.html');
         };
     } else {
-        if (validationData.questions[0].correctAnswers[0] != "true") {
+        if (validationData.questions[0].correctAnswers[0] != "false") {
             if (confirm(displayMessage)) {
                 window.open('https://snak3s773.github.io/blooket-hack/discord.html');
             };
